@@ -1,3 +1,6 @@
 [submodule "part1/chapter4/weather_dataset"]
 	path = part1/chapter4/weather_dataset
 	url = https://github.com/ndb796/weather_dataset
+[submodule "part1/chapter4/custom_korean_family_dataset_resolution_128"]
+	path = part1/chapter4/custom_korean_family_dataset_resolution_128
+	url = https://github.com/ndb796/korean_face_age_dataset
