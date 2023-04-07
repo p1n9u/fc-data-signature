@@ -1,5 +1,6 @@
 # fc-data-signature
 
+### 서브모듈 포함 다운로드 (데이터 세트)
 ```bash
 git clone --recurse-submodules https://github.com/p1n9u/fc-data-signature.git
 ```
